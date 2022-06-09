@@ -2,12 +2,12 @@
 Answer for the TCS NQT exam of
 
 1.Problem 
------
+----------
 
-**input **
+**input**
 123523
 
-**output **
+**output**
 23
 15
 
